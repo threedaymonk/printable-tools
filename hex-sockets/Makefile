@@ -7,7 +7,7 @@ MAKEFLAGS += -j4
 #
 # * Not needed as they're within 0.1 mm of metric sizes
 
-SIZES = 8 10 11 12 14 9.5 12.7
+SIZES = 7 8 9.5 10 11 12 12.7 14 15
 
 .PHONY: all clean
 
