@@ -11,9 +11,9 @@ SIZES = 8 10 11 12 14 9.5 12.7
 
 .PHONY: all clean
 
-all: $(patsubst %,hex-spanner-%.stl,$(SIZES))
+all: $(patsubst %,hex-socket-%.stl,$(SIZES))
 
-hex-spanner-%.stl: hex-spanner.scad
+hex-socket-%.stl: hex-socket.scad
 	openscad -D size=$* -o $@ $<
 
 clean:
