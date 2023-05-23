@@ -13,9 +13,10 @@ all be made on a 3D FDM printer.
 The latest STL files for everything in this repository can be downloaded
 from the [release page](../../releases/latest).
 
-# Copyright
+# Copyright and licensing
 
-This work is copyright Paul Battley.
+This work is copyright Paul Battley. You can use and reuse it under certain
+conditions.
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 

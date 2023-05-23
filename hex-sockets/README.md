@@ -25,4 +25,7 @@ The following sizes are included:
 - 14 mm
 - 15 mm
 
-To make the STL files, run `make`.
+# Download
+
+The latest STL files for everything in this repository can be downloaded
+from the [release page](../../../releases/latest).
