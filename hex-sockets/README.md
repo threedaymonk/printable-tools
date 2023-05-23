@@ -3,6 +3,8 @@
 This is a set of sockets in common sizes needed for metric and inch sizes,
 optimised to be comfortable to use, fast to print, and robust.
 
+![Sockets printed in red PLA](./hex-sockets.webp)
+
 They are designed with thickness and radii to be printed with a 0.4 mm nozzle.
 This will give solid walls that can be printed in continuous lines.
 
