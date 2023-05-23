@@ -8,6 +8,11 @@ all be made on a 3D FDM printer.
 - [Hexagonal sockets for maintaining guitars, effects pedals, synths, etc.](/hex-sockets)
 - [String lifter for working on guitar nuts](/string-lifter)
 
+# Download
+
+The latest STL files for everything in this repository can be downloaded
+from the [release page](../../releases/latest).
+
 # Copyright
 
 This work is copyright Paul Battley.
