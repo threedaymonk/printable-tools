@@ -1,0 +1,6 @@
+# action.yml
+name: 'scad to stl'
+description: 'Build STL files from OpenSCAD via make'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
