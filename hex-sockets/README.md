@@ -8,6 +8,8 @@ optimised to be comfortable to use, fast to print, and robust.
 They are designed with thickness and radii to be printed with a 0.4 mm nozzle.
 This will give solid walls that can be printed in continuous lines.
 
+![Preview of 3D print](./hex-socket-print-preview.webp)
+
 Each socket is 0.2mm larger than its nominal size to accommodate inexactness
 when printing.
 
